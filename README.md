@@ -13,4 +13,6 @@ A Portfolio page for my projects
 # Questions ❓
 Please do not hesitate to reach out and ask any questions
 
-<bold>Email:</bold> <a href="#">griffinalisha01@gmail.com</a>
+Email: <a href="#">griffinalisha01@gmail.com</a> (preferred)
+Github:
+LinkedIN:<a href="https://www.linkedin.com/in/griffa/">Alisha</a>
