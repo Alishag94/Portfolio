@@ -4,8 +4,8 @@ A Portfolio page for my projects
 # Preview
 ![image](https://user-images.githubusercontent.com/111026797/207158045-a87f3435-84cb-42ab-b80a-9d1652f4863d.png)
 
-# Features
-HTML5
-Webfonts
-Javascript
-CSS
+# Features 💻
+✅HTML5<br>
+✅Webfonts<br>
+✅Javascript<br>
+✅CSS<br>
