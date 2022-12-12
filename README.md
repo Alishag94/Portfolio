@@ -14,5 +14,5 @@ A Portfolio page for my projects
 Please do not hesitate to reach out and ask any questions
 
 Email: <a href="#">griffinalisha01@gmail.com</a> (preferred)<br>
-Github:<a href="#">Alishag94</a><br>
-LinkedIN:<a href="https://www.linkedin.com/in/griffa/">Alisha</a>
+Github: <a href="#">Alishag94</a><br>
+LinkedIN: <a href="https://www.linkedin.com/in/griffa/">Alisha</a>
